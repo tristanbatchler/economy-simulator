@@ -132,7 +132,7 @@ public class Market {
      *
      * This method is not guaranteed to generate the given number of <strong>unique</strong> items - especially if there
      * are not enough item names in the item names file. Instead, this method will randomly add quantities of random items
-     * to agents' inventories a given number of <emph>times</emph>.
+     * to agents' inventories a given number of <em>times</em>.
      *
      * If the number of items to generative is non-positive, this method does nothing.
      * @param num The positive number of item types to generate.
